@@ -1,0 +1,2 @@
+
+    printf("Right traingle");
