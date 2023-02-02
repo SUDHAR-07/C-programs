@@ -11,6 +11,7 @@ Have a look at various kind of <b>C programs</b> for different problems
 <p> Below image shows some of the challenging problems that I solved
 
 ![image](https://user-images.githubusercontent.com/85281859/216070459-78cd1454-ad7b-4664-a32f-03731c3e0b0b.png)
+![image](https://user-images.githubusercontent.com/85281859/216340888-02c1d5c0-9391-4576-b731-90d871e7cb47.png)
 
 ### Want to know more about me?
 ## Follow Me
